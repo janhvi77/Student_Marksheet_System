@@ -47,7 +47,7 @@ User enter their school/college Name Enter a class/mother name/student full name
 Check out the full code here (Replace with actual URL)
 
 Let me know your thoughts and suggestions!
-#java #ProjectShowcase #Coding #OOP #StudentProject #LinkedInLearning #GitHub"
+#java #ProjectShowcase #Coding #OOP #StudentProject #linkdine #GitHub"
 
 
 
