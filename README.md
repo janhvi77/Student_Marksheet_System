@@ -13,3 +13,27 @@ What are the features that make you different
 5. Assign grade and remark
 6. Determine pass fail status
 
+
+
+🛑Technical Implementation:
+
+Which topics of C programming you use to solve the problem
+
+1. Libraries used
+
+a) stdio.h – for input/output
+b) string.h – for string manipulation
+
+2. Input section:
+a) For student personal information
+
+3. Calculation section:
+a) For total marks, percentage, CGPA
+
+4. Grade assignment
+
+5. Remark:
+a) Remark based on performances 
+
+
+
