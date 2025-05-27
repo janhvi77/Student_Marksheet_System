@@ -35,5 +35,12 @@ a) For total marks, percentage, CGPA
 5. Remark:
 a) Remark based on performances 
 
+"GitHub Repository:
+Check out the full code here (Replace with actual URL)
+
+Let me know your thoughts and suggestions!
+#java #ProjectShowcase #Coding #OOP #StudentProject #LinkedInLearning #GitHub"
+
+
 
 
