@@ -35,7 +35,15 @@ a) For total marks, percentage, CGPA
 5. Remark:
 a) Remark based on performances 
 
-"GitHub Repository:
+
+🛑"How it work :
+
+FUNCTIONAL FLOW
+
+User enter their school/college Name Enter a class/mother name/student full name etc Enter a correct marks for selected subject give total marks percentage grade Result ( Pass or Fail) give accurate format of Marksheet (layout) Enter a valid information. then this give a accurate formate of marksheet with proper percentage,grade and total mark
+
+
+🛑"GitHub Repository:
 Check out the full code here (Replace with actual URL)
 
 Let me know your thoughts and suggestions!
